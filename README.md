@@ -22,7 +22,7 @@ distance=math.sqrt(((d2[0]-d1[0])**2)+((d2[1]-d1[1])**2))()
 print("{:.2f}".format(distance))
 ```
 ### OUTPUT:
-![GitHub Logo](./image.png)
+![GitHub Logo](.//image.png)
 
 ### RESULT:
 Thus,the distance between two points is calculated
